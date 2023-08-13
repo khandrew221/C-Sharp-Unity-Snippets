@@ -1,0 +1,1 @@
+A quick and dirty conversion of the fluid simulation code presented in *Real-Time Fluid Dynamics for Games* by J Stam from C++ to C#, with some additional code allowing it to be visualised in the Unity engine. 
